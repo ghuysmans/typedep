@@ -1,0 +1,1 @@
+(executable (name typedep) (libraries compiler-libs.common))
